@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg width='70' height='200'>
+	<g>
+		<rect x='0' y='0' width='70' height='40' fill='white'/>
+		<text x='35' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>3</text>
+		<rect x='0' y='40' width='70' height='40' fill='white'/>
+		<text x='35' y='65' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>88</text>
+		<rect x='0' y='80' width='70' height='40' fill='white'/>
+		<text x='35' y='105' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>36</text>
+		<rect x='0' y='120' width='70' height='40' fill='white'/>
+		<text x='35' y='145' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>65</text>
+		<rect x='0' y='160' width='70' height='40' fill='white'/>
+		<text x='35' y='185' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>84</text>
+		<line x1='0' y1='200' x2='70' y2='200' stroke='black' stroke-width='4' />
+		<line x1='0' y1='0' x2='0' y2='200' stroke='black' stroke-width='4' />
+		<line x1='70' y1='0' x2='70' y2='200' stroke='black' stroke-width='4' />
+	</g>
+</svg>

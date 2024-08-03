@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg width='5110' height='40'>
+	<g>
+		<rect x='0' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='35' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>98</text>
+		<line x1='75' y1='20' x2='115' y2='20' stroke='black' stroke-width='4' /><polygon points='75,20 85,10 85,30' fill='black' /><polygon points='115,20 105,10 105,30' fill='black' />
+		<rect x='120' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='155' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>96</text>
+		<line x1='195' y1='20' x2='235' y2='20' stroke='black' stroke-width='4' /><polygon points='195,20 205,10 205,30' fill='black' /><polygon points='235,20 225,10 225,30' fill='black' />
+		<rect x='240' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='275' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>43</text>
+		<line x1='315' y1='20' x2='355' y2='20' stroke='black' stroke-width='4' /><polygon points='315,20 325,10 325,30' fill='black' /><polygon points='355,20 345,10 345,30' fill='black' />
+		<rect x='360' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='395' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>5</text>
+		<line x1='435' y1='20' x2='475' y2='20' stroke='black' stroke-width='4' /><polygon points='435,20 445,10 445,30' fill='black' /><polygon points='475,20 465,10 465,30' fill='black' />
+		<rect x='480' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='515' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>6</text>
+		<line x1='555' y1='20' x2='595' y2='20' stroke='black' stroke-width='4' /><polygon points='555,20 565,10 565,30' fill='black' /><polygon points='595,20 585,10 585,30' fill='black' />
+		<rect x='600' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='635' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>92</text>
+		<line x1='675' y1='20' x2='715' y2='20' stroke='black' stroke-width='4' /><polygon points='675,20 685,10 685,30' fill='black' /><polygon points='715,20 705,10 705,30' fill='black' />
+		<rect x='720' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='755' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>49</text>
+		<line x1='795' y1='20' x2='835' y2='20' stroke='black' stroke-width='4' /><polygon points='795,20 805,10 805,30' fill='black' /><polygon points='835,20 825,10 825,30' fill='black' />
+		<rect x='840' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='875' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>41</text>
+		<line x1='915' y1='20' x2='955' y2='20' stroke='black' stroke-width='4' /><polygon points='915,20 925,10 925,30' fill='black' /><polygon points='955,20 945,10 945,30' fill='black' />
+		<rect x='960' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='995' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>8</text>
+		<line x1='1035' y1='20' x2='1075' y2='20' stroke='black' stroke-width='4' /><polygon points='1035,20 1045,10 1045,30' fill='black' /><polygon points='1075,20 1065,10 1065,30' fill='black' />
+		<rect x='1080' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='1115' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>6</text>
+		<line x1='1155' y1='20' x2='1195' y2='20' stroke='black' stroke-width='4' /><polygon points='1155,20 1165,10 1165,30' fill='black' /><polygon points='1195,20 1185,10 1185,30' fill='black' />
+		<rect x='1200' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='1235' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>34</text>
+		<line x1='1275' y1='20' x2='1315' y2='20' stroke='black' stroke-width='4' /><polygon points='1275,20 1285,10 1285,30' fill='black' /><polygon points='1315,20 1305,10 1305,30' fill='black' />
+		<rect x='1320' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='1355' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>51</text>
+		<line x1='1395' y1='20' x2='1435' y2='20' stroke='black' stroke-width='4' /><polygon points='1395,20 1405,10 1405,30' fill='black' /><polygon points='1435,20 1425,10 1425,30' fill='black' />
+		<rect x='1440' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='1475' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>47</text>
+		<line x1='1515' y1='20' x2='1555' y2='20' stroke='black' stroke-width='4' /><polygon points='1515,20 1525,10 1525,30' fill='black' /><polygon points='1555,20 1545,10 1545,30' fill='black' />
+		<rect x='1560' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='1595' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>74</text>
+		<line x1='1635' y1='20' x2='1675' y2='20' stroke='black' stroke-width='4' /><polygon points='1635,20 1645,10 1645,30' fill='black' /><polygon points='1675,20 1665,10 1665,30' fill='black' />
+		<rect x='1680' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='1715' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>71</text>
+		<line x1='1755' y1='20' x2='1795' y2='20' stroke='black' stroke-width='4' /><polygon points='1755,20 1765,10 1765,30' fill='black' /><polygon points='1795,20 1785,10 1785,30' fill='black' />
+		<rect x='1800' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='1835' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>86</text>
+		<line x1='1875' y1='20' x2='1915' y2='20' stroke='black' stroke-width='4' /><polygon points='1875,20 1885,10 1885,30' fill='black' /><polygon points='1915,20 1905,10 1905,30' fill='black' />
+		<rect x='1920' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='1955' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>37</text>
+		<line x1='1995' y1='20' x2='2035' y2='20' stroke='black' stroke-width='4' /><polygon points='1995,20 2005,10 2005,30' fill='black' /><polygon points='2035,20 2025,10 2025,30' fill='black' />
+		<rect x='2040' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='2075' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>48</text>
+		<line x1='2115' y1='20' x2='2155' y2='20' stroke='black' stroke-width='4' /><polygon points='2115,20 2125,10 2125,30' fill='black' /><polygon points='2155,20 2145,10 2145,30' fill='black' />
+		<rect x='2160' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='2195' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>88</text>
+		<line x1='2235' y1='20' x2='2275' y2='20' stroke='black' stroke-width='4' /><polygon points='2235,20 2245,10 2245,30' fill='black' /><polygon points='2275,20 2265,10 2265,30' fill='black' />
+		<rect x='2280' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='2315' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>60</text>
+		<line x1='2355' y1='20' x2='2395' y2='20' stroke='black' stroke-width='4' /><polygon points='2355,20 2365,10 2365,30' fill='black' /><polygon points='2395,20 2385,10 2385,30' fill='black' />
+		<rect x='2400' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='2435' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>93</text>
+		<line x1='2475' y1='20' x2='2515' y2='20' stroke='black' stroke-width='4' /><polygon points='2475,20 2485,10 2485,30' fill='black' /><polygon points='2515,20 2505,10 2505,30' fill='black' />
+		<rect x='2520' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='2555' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>20</text>
+		<line x1='2595' y1='20' x2='2635' y2='20' stroke='black' stroke-width='4' /><polygon points='2595,20 2605,10 2605,30' fill='black' /><polygon points='2635,20 2625,10 2625,30' fill='black' />
+		<rect x='2640' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='2675' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>59</text>
+		<line x1='2715' y1='20' x2='2755' y2='20' stroke='black' stroke-width='4' /><polygon points='2715,20 2725,10 2725,30' fill='black' /><polygon points='2755,20 2745,10 2745,30' fill='black' />
+		<rect x='2760' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='2795' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>81</text>
+		<line x1='2835' y1='20' x2='2875' y2='20' stroke='black' stroke-width='4' /><polygon points='2835,20 2845,10 2845,30' fill='black' /><polygon points='2875,20 2865,10 2865,30' fill='black' />
+		<rect x='2880' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='2915' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>76</text>
+		<line x1='2955' y1='20' x2='2995' y2='20' stroke='black' stroke-width='4' /><polygon points='2955,20 2965,10 2965,30' fill='black' /><polygon points='2995,20 2985,10 2985,30' fill='black' />
+		<rect x='3000' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='3035' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>37</text>
+		<line x1='3075' y1='20' x2='3115' y2='20' stroke='black' stroke-width='4' /><polygon points='3075,20 3085,10 3085,30' fill='black' /><polygon points='3115,20 3105,10 3105,30' fill='black' />
+		<rect x='3120' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='3155' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>24</text>
+		<line x1='3195' y1='20' x2='3235' y2='20' stroke='black' stroke-width='4' /><polygon points='3195,20 3205,10 3205,30' fill='black' /><polygon points='3235,20 3225,10 3225,30' fill='black' />
+		<rect x='3240' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='3275' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>74</text>
+		<line x1='3315' y1='20' x2='3355' y2='20' stroke='black' stroke-width='4' /><polygon points='3315,20 3325,10 3325,30' fill='black' /><polygon points='3355,20 3345,10 3345,30' fill='black' />
+		<rect x='3360' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='3395' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>95</text>
+		<line x1='3435' y1='20' x2='3475' y2='20' stroke='black' stroke-width='4' /><polygon points='3435,20 3445,10 3445,30' fill='black' /><polygon points='3475,20 3465,10 3465,30' fill='black' />
+		<rect x='3480' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='3515' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>67</text>
+		<line x1='3555' y1='20' x2='3595' y2='20' stroke='black' stroke-width='4' /><polygon points='3555,20 3565,10 3565,30' fill='black' /><polygon points='3595,20 3585,10 3585,30' fill='black' />
+		<rect x='3600' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='3635' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>28</text>
+		<line x1='3675' y1='20' x2='3715' y2='20' stroke='black' stroke-width='4' /><polygon points='3675,20 3685,10 3685,30' fill='black' /><polygon points='3715,20 3705,10 3705,30' fill='black' />
+		<rect x='3720' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='3755' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>99</text>
+		<line x1='3795' y1='20' x2='3835' y2='20' stroke='black' stroke-width='4' /><polygon points='3795,20 3805,10 3805,30' fill='black' /><polygon points='3835,20 3825,10 3825,30' fill='black' />
+		<rect x='3840' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='3875' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>54</text>
+		<line x1='3915' y1='20' x2='3955' y2='20' stroke='black' stroke-width='4' /><polygon points='3915,20 3925,10 3925,30' fill='black' /><polygon points='3955,20 3945,10 3945,30' fill='black' />
+		<rect x='3960' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='3995' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>88</text>
+		<line x1='4035' y1='20' x2='4075' y2='20' stroke='black' stroke-width='4' /><polygon points='4035,20 4045,10 4045,30' fill='black' /><polygon points='4075,20 4065,10 4065,30' fill='black' />
+		<rect x='4080' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='4115' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>86</text>
+		<line x1='4155' y1='20' x2='4195' y2='20' stroke='black' stroke-width='4' /><polygon points='4155,20 4165,10 4165,30' fill='black' /><polygon points='4195,20 4185,10 4185,30' fill='black' />
+		<rect x='4200' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='4235' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>55</text>
+		<line x1='4275' y1='20' x2='4315' y2='20' stroke='black' stroke-width='4' /><polygon points='4275,20 4285,10 4285,30' fill='black' /><polygon points='4315,20 4305,10 4305,30' fill='black' />
+		<rect x='4320' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='4355' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>12</text>
+		<line x1='4395' y1='20' x2='4435' y2='20' stroke='black' stroke-width='4' /><polygon points='4395,20 4405,10 4405,30' fill='black' /><polygon points='4435,20 4425,10 4425,30' fill='black' />
+		<rect x='4440' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='4475' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>34</text>
+		<line x1='4515' y1='20' x2='4555' y2='20' stroke='black' stroke-width='4' /><polygon points='4515,20 4525,10 4525,30' fill='black' /><polygon points='4555,20 4545,10 4545,30' fill='black' />
+		<rect x='4560' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='4595' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>38</text>
+		<line x1='4635' y1='20' x2='4675' y2='20' stroke='black' stroke-width='4' /><polygon points='4635,20 4645,10 4645,30' fill='black' /><polygon points='4675,20 4665,10 4665,30' fill='black' />
+		<rect x='4680' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='4715' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>61</text>
+		<line x1='4755' y1='20' x2='4795' y2='20' stroke='black' stroke-width='4' /><polygon points='4755,20 4765,10 4765,30' fill='black' /><polygon points='4795,20 4785,10 4785,30' fill='black' />
+		<rect x='4800' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='4835' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>60</text>
+		<line x1='4875' y1='20' x2='4915' y2='20' stroke='black' stroke-width='4' /><polygon points='4875,20 4885,10 4885,30' fill='black' /><polygon points='4915,20 4905,10 4905,30' fill='black' />
+		<rect x='4920' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='4955' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>98</text>
+		<line x1='4995' y1='20' x2='5035' y2='20' stroke='black' stroke-width='4' /><polygon points='4995,20 5005,10 5005,30' fill='black' /><polygon points='5035,20 5025,10 5025,30' fill='black' />
+		<rect x='5040' y='0' width='70' height='40' fill='white' stroke='black' stroke-width='4'/>
+		<text x='5075' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>45</text>
+	</g>
+</svg>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg width='1400' height='42'>
+	<g>
+		<rect x='70' y='0' width='70' height='40' fill='white'/>
+		<text x='105' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>52</text>
+		<rect x='140' y='0' width='70' height='40' fill='white'/>
+		<text x='175' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>6</text>
+		<rect x='210' y='0' width='70' height='40' fill='white'/>
+		<text x='245' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>31</text>
+		<rect x='280' y='0' width='70' height='40' fill='white'/>
+		<text x='315' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>20</text>
+		<rect x='350' y='0' width='70' height='40' fill='white'/>
+		<text x='385' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>76</text>
+		<rect x='420' y='0' width='70' height='40' fill='white'/>
+		<text x='455' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>24</text>
+		<rect x='490' y='0' width='70' height='40' fill='white'/>
+		<text x='525' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>21</text>
+		<rect x='560' y='0' width='70' height='40' fill='white'/>
+		<text x='595' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>7</text>
+		<rect x='630' y='0' width='70' height='40' fill='white'/>
+		<text x='665' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>53</text>
+		<rect x='700' y='0' width='70' height='40' fill='white'/>
+		<text x='735' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>95</text>
+		<rect x='770' y='0' width='70' height='40' fill='white'/>
+		<text x='805' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>95</text>
+		<rect x='840' y='0' width='70' height='40' fill='white'/>
+		<text x='875' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>22</text>
+		<rect x='910' y='0' width='70' height='40' fill='white'/>
+		<text x='945' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>58</text>
+		<rect x='980' y='0' width='70' height='40' fill='white'/>
+		<text x='1015' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>98</text>
+		<rect x='1050' y='0' width='70' height='40' fill='white'/>
+		<text x='1085' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>5</text>
+		<rect x='1120' y='0' width='70' height='40' fill='white'/>
+		<text x='1155' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>79</text>
+		<rect x='1190' y='0' width='70' height='40' fill='white'/>
+		<text x='1225' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>12</text>
+		<rect x='1260' y='0' width='70' height='40' fill='white'/>
+		<text x='1295' y='25' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>11</text>
+		<line x1='70' y1='0' x2='1330' y2='0' stroke='black' stroke-width='4' />
+		<line x1='70' y1='40' x2='1330' y2='40' stroke='black' stroke-width='4' />
+		<line x1='0' y1='22' x2='70' y2='22' stroke='black' stroke-width='4' /><polygon points='70,22 60,12 60,32' fill='black' />
+		<line x1='1330' y1='22' x2='1400' y2='22' stroke='black' stroke-width='4' /><polygon points='1400,22 1390,12 1390,32' fill='black' />
+	</g>
+</svg>

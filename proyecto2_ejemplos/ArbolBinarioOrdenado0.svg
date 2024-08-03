@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg width='79881' height='1008'>
+	<g>
+		<line x1='18447' y1='120' x2='43011' y2='28' stroke='black' stroke-width='4' />
+		<line x1='6165' y1='216' x2='18447' y2='124' stroke='black' stroke-width='4' />
+		<line x1='24' y1='312' x2='6165' y2='220' stroke='black' stroke-width='4' />
+		<line x1='12306' y1='312' x2='6165' y2='220' stroke='black' stroke-width='4' />
+		<line x1='9235' y1='408' x2='12306' y2='316' stroke='black' stroke-width='4' />
+		<line x1='15376' y1='408' x2='12306' y2='316' stroke='black' stroke-width='4' />
+		<line x1='13841' y1='504' x2='15376' y2='412' stroke='black' stroke-width='4' />
+		<line x1='16911' y1='504' x2='15376' y2='412' stroke='black' stroke-width='4' />
+		<line x1='30729' y1='216' x2='18447' y2='124' stroke='black' stroke-width='4' />
+		<line x1='24588' y1='312' x2='30729' y2='220' stroke='black' stroke-width='4' />
+		<line x1='21517' y1='408' x2='24588' y2='316' stroke='black' stroke-width='4' />
+		<line x1='27658' y1='408' x2='24588' y2='316' stroke='black' stroke-width='4' />
+		<line x1='36870' y1='312' x2='30729' y2='220' stroke='black' stroke-width='4' />
+		<line x1='33799' y1='408' x2='36870' y2='316' stroke='black' stroke-width='4' />
+		<line x1='32264' y1='504' x2='33799' y2='412' stroke='black' stroke-width='4' />
+		<line x1='33031' y1='600' x2='32264' y2='508' stroke='black' stroke-width='4' />
+		<line x1='33415' y1='696' x2='33031' y2='604' stroke='black' stroke-width='4' />
+		<line x1='33607' y1='792' x2='33415' y2='700' stroke='black' stroke-width='4' />
+		<line x1='35334' y1='504' x2='33799' y2='412' stroke='black' stroke-width='4' />
+		<line x1='36102' y1='600' x2='35334' y2='508' stroke='black' stroke-width='4' />
+		<line x1='39940' y1='408' x2='36870' y2='316' stroke='black' stroke-width='4' />
+		<line x1='38405' y1='504' x2='39940' y2='412' stroke='black' stroke-width='4' />
+		<line x1='37637' y1='600' x2='38405' y2='508' stroke='black' stroke-width='4' />
+		<line x1='37253' y1='696' x2='37637' y2='604' stroke='black' stroke-width='4' />
+		<line x1='38021' y1='696' x2='37637' y2='604' stroke='black' stroke-width='4' />
+		<line x1='37829' y1='792' x2='38021' y2='700' stroke='black' stroke-width='4' />
+		<line x1='37733' y1='888' x2='37829' y2='796' stroke='black' stroke-width='4' />
+		<line x1='37685' y1='984' x2='37733' y2='892' stroke='black' stroke-width='4' />
+		<line x1='41475' y1='504' x2='39940' y2='412' stroke='black' stroke-width='4' />
+		<line x1='40707' y1='600' x2='41475' y2='508' stroke='black' stroke-width='4' />
+		<line x1='40323' y1='696' x2='40707' y2='604' stroke='black' stroke-width='4' />
+		<line x1='40131' y1='792' x2='40323' y2='700' stroke='black' stroke-width='4' />
+		<line x1='41091' y1='696' x2='40707' y2='604' stroke='black' stroke-width='4' />
+		<line x1='41283' y1='792' x2='41091' y2='700' stroke='black' stroke-width='4' />
+		<line x1='41187' y1='888' x2='41283' y2='796' stroke='black' stroke-width='4' />
+		<line x1='42243' y1='600' x2='41475' y2='508' stroke='black' stroke-width='4' />
+		<line x1='41859' y1='696' x2='42243' y2='604' stroke='black' stroke-width='4' />
+		<line x1='41667' y1='792' x2='41859' y2='700' stroke='black' stroke-width='4' />
+		<line x1='41571' y1='888' x2='41667' y2='796' stroke='black' stroke-width='4' />
+		<line x1='41763' y1='888' x2='41667' y2='796' stroke='black' stroke-width='4' />
+		<line x1='42627' y1='696' x2='42243' y2='604' stroke='black' stroke-width='4' />
+		<line x1='67575' y1='120' x2='43011' y2='28' stroke='black' stroke-width='4' />
+		<line x1='55293' y1='216' x2='67575' y2='124' stroke='black' stroke-width='4' />
+		<line x1='61434' y1='312' x2='55293' y2='220' stroke='black' stroke-width='4' />
+		<line x1='79857' y1='216' x2='67575' y2='124' stroke='black' stroke-width='4' />
+		<line x1='73716' y1='312' x2='79857' y2='220' stroke='black' stroke-width='4' />
+		<line x1='76786' y1='408' x2='73716' y2='316' stroke='black' stroke-width='4' />
+		<circle cx='43011' cy='24' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='43011' y='29' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>90</text>
+		<circle cx='18447' cy='120' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='18447' y='125' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>29</text>
+		<circle cx='6165' cy='216' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='6165' y='221' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>11</text>
+		<circle cx='24' cy='312' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='24' y='317' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>10</text>
+		<circle cx='12306' cy='312' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='12306' y='317' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>16</text>
+		<circle cx='9235' cy='408' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='9235' y='413' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>16</text>
+		<circle cx='15376' cy='408' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='15376' y='413' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>25</text>
+		<circle cx='13841' cy='504' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='13841' y='509' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>19</text>
+		<circle cx='16911' cy='504' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='16911' y='509' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>26</text>
+		<circle cx='30729' cy='216' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='30729' y='221' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>38</text>
+		<circle cx='24588' cy='312' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='24588' y='317' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>31</text>
+		<circle cx='21517' cy='408' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='21517' y='413' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>30</text>
+		<circle cx='27658' cy='408' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='27658' y='413' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>34</text>
+		<circle cx='36870' cy='312' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='36870' y='317' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>46</text>
+		<circle cx='33799' cy='408' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='33799' y='413' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>43</text>
+		<circle cx='32264' cy='504' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='32264' y='509' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>39</text>
+		<circle cx='33031' cy='600' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='33031' y='605' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>41</text>
+		<circle cx='33415' cy='696' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='33415' y='701' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>42</text>
+		<circle cx='33607' cy='792' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='33607' y='797' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>43</text>
+		<circle cx='35334' cy='504' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='35334' y='509' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>44</text>
+		<circle cx='36102' cy='600' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='36102' y='605' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>46</text>
+		<circle cx='39940' cy='408' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='39940' y='413' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>60</text>
+		<circle cx='38405' cy='504' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='38405' y='509' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>57</text>
+		<circle cx='37637' cy='600' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='37637' y='605' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>47</text>
+		<circle cx='37253' cy='696' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='37253' y='701' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>47</text>
+		<circle cx='38021' cy='696' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='38021' y='701' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>51</text>
+		<circle cx='37829' cy='792' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='37829' y='797' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>51</text>
+		<circle cx='37733' cy='888' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='37733' y='893' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>50</text>
+		<circle cx='37685' cy='984' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='37685' y='989' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>48</text>
+		<circle cx='41475' cy='504' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='41475' y='509' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>73</text>
+		<circle cx='40707' cy='600' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='40707' y='605' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>66</text>
+		<circle cx='40323' cy='696' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='40323' y='701' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>65</text>
+		<circle cx='40131' cy='792' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='40131' y='797' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>62</text>
+		<circle cx='41091' cy='696' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='41091' y='701' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>67</text>
+		<circle cx='41283' cy='792' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='41283' y='797' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>72</text>
+		<circle cx='41187' cy='888' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='41187' y='893' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>70</text>
+		<circle cx='42243' cy='600' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='42243' y='605' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>82</text>
+		<circle cx='41859' cy='696' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='41859' y='701' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>81</text>
+		<circle cx='41667' cy='792' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='41667' y='797' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>75</text>
+		<circle cx='41571' cy='888' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='41571' y='893' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>75</text>
+		<circle cx='41763' cy='888' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='41763' y='893' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>77</text>
+		<circle cx='42627' cy='696' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='42627' y='701' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>88</text>
+		<circle cx='67575' cy='120' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='67575' y='125' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>93</text>
+		<circle cx='55293' cy='216' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='55293' y='221' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>91</text>
+		<circle cx='61434' cy='312' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='61434' y='317' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>93</text>
+		<circle cx='79857' cy='216' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='79857' y='221' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>99</text>
+		<circle cx='73716' cy='312' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='73716' y='317' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>96</text>
+		<circle cx='76786' cy='408' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='76786' y='413' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>97</text>
+	</g>
+</svg>

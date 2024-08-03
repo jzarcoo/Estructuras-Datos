@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg width='48' height='48'>
+	<g>
+		<circle cx='24' cy='24' r='20' fill='black' stroke='black' stroke-width='4'/>
+		<text x='24' y='29' fill='white' font-family='sans-serif' font-size='15' text-anchor='middle'>9</text>
+	</g>
+</svg>

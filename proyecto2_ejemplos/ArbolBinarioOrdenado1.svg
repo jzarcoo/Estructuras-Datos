@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg width='2788' height='528'>
+	<g>
+		<line x1='591' y1='120' x2='1347' y2='28' stroke='black' stroke-width='4' />
+		<line x1='213' y1='216' x2='591' y2='124' stroke='black' stroke-width='4' />
+		<line x1='24' y1='312' x2='213' y2='220' stroke='black' stroke-width='4' />
+		<line x1='402' y1='312' x2='213' y2='220' stroke='black' stroke-width='4' />
+		<line x1='307' y1='408' x2='402' y2='316' stroke='black' stroke-width='4' />
+		<line x1='260' y1='504' x2='307' y2='412' stroke='black' stroke-width='4' />
+		<line x1='354' y1='504' x2='307' y2='412' stroke='black' stroke-width='4' />
+		<line x1='969' y1='216' x2='591' y2='124' stroke='black' stroke-width='4' />
+		<line x1='780' y1='312' x2='969' y2='220' stroke='black' stroke-width='4' />
+		<line x1='685' y1='408' x2='780' y2='316' stroke='black' stroke-width='4' />
+		<line x1='2103' y1='120' x2='1347' y2='28' stroke='black' stroke-width='4' />
+		<line x1='2481' y1='216' x2='2103' y2='124' stroke='black' stroke-width='4' />
+		<line x1='2670' y1='312' x2='2481' y2='220' stroke='black' stroke-width='4' />
+		<line x1='2764' y1='408' x2='2670' y2='316' stroke='black' stroke-width='4' />
+		<circle cx='1347' cy='24' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='1347' y='29' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>73</text>
+		<circle cx='591' cy='120' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='591' y='125' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>56</text>
+		<circle cx='213' cy='216' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='213' y='221' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>8</text>
+		<circle cx='24' cy='312' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='24' y='317' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>8</text>
+		<circle cx='402' cy='312' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='402' y='317' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>44</text>
+		<circle cx='307' cy='408' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='307' y='413' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>28</text>
+		<circle cx='260' cy='504' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='260' y='509' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>13</text>
+		<circle cx='354' cy='504' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='354' y='509' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>43</text>
+		<circle cx='969' cy='216' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='969' y='221' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>68</text>
+		<circle cx='780' cy='312' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='780' y='317' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>64</text>
+		<circle cx='685' cy='408' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='685' y='413' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>61</text>
+		<circle cx='2103' cy='120' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='2103' y='125' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>77</text>
+		<circle cx='2481' cy='216' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='2481' y='221' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>88</text>
+		<circle cx='2670' cy='312' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='2670' y='317' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>90</text>
+		<circle cx='2764' cy='408' r='20' fill='white' stroke='black' stroke-width='4'/>
+		<text x='2764' y='413' fill='black' font-family='sans-serif' font-size='15' text-anchor='middle'>97</text>
+	</g>
+</svg>
