@@ -1,3 +1,0 @@
-xxd -b 
-hexdump -C
-od -An -t d1
