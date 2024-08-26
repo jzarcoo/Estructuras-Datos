@@ -1,0 +1,3 @@
+[submodule "MazeSimulator"]
+	path = MazeSimulator
+	url = https://github.com/jzarcoo/MazeSimulator.git
